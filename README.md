@@ -47,10 +47,8 @@ And more...
 ## The hotel project:
 ![Sistem](https://github.com/jhosagid7/jhosagid7/blob/main/20211019_002752.gif)
 
-Twitimer is a free **[iOS](https://apps.apple.com/us/app/twitimer-twitch-guide/id1564592351)** and **[Android](https://play.google.com/store/apps/details?id=com.mouredev.twitimer)** App that has been developed to help Twitch users, but especially thinking about generating educational content for the entire community of programmers interested in the world of apps development for mobile devices. They have made the project possible (I want it to be a free and constantly evolving App).
+A hotel system is a software that allows managing, controlling and optimizing the internal processes of a hotel to guarantee its correct operation and compliance with the essential factors of the same.
 
 ## Contact me:
 
-[![MyPublicInbox](https://img.shields.io/badge/MyPublicInbox-MESSAGE+COFFEE_(FAST_RESPONSE)_Thank_you!-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://mypublicinbox.com/mouredev)
-</br>
-[![Email](https://img.shields.io/badge/braismoure@mouredev.com-my_personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:braismoure@mouredev.com)
+[![Email](https://img.shields.io/badge/jhosagid77@gmail.com-my_personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:jhosagid77@gmail.com)
