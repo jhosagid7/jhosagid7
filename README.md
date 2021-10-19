@@ -44,25 +44,13 @@ And more...
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jhosagid_Pirela-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jhosagid-pirela-30837b1aa)
 [![Web](https://img.shields.io/badge/jhonnypirela.dev-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://jhonnypirela.dev)
 
-## The ⏳Twitimer community project:
-![https://twitimer.com](https://raw.githubusercontent.com/mouredev/mouredev/master/twitimer_banner.png)
+## The hotel project:
+![Sistem](https://raw.githubusercontent.com/mouredev/mouredev/master/twitimer_banner.png)
 
 [![GitHub Followers](https://img.shields.io/github/stars/mouredev/Twitimer-iOS?label=Public%20iOS%20App%20repository&style=social)](https://github.com/mouredev/Twitimer-iOS)
 [![GitHub Followers](https://img.shields.io/github/stars/mouredev/Twitimer-Android?label=Public%20Android%20App%20repository&style=social)](https://github.com/mouredev/Twitimer-Android)
 
 Twitimer is a free **[iOS](https://apps.apple.com/us/app/twitimer-twitch-guide/id1564592351)** and **[Android](https://play.google.com/store/apps/details?id=com.mouredev.twitimer)** App that has been developed to help Twitch users, but especially thinking about generating educational content for the entire community of programmers interested in the world of apps development for mobile devices. They have made the project possible (I want it to be a free and constantly evolving App).
-
-If you want to join our community, learn App coding, and help the continuity of the project, you can find us at:
-
-[![Web](https://img.shields.io/badge/Twitimer.com-Official_site-3A1C66?style=for-the-badge&logoColor=white&labelColor=101010)](https://twitimer.com)
-[![Twitch](https://img.shields.io/badge/Twitch-Live_coding-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
-[![Discord](https://img.shields.io/badge/Discord-Feedback_and_bugs-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.gg/U3KjjfUfUJ)
-</br>
-[![YouTube](https://img.shields.io/badge/YouTube-Tutorials-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/mouredevapps)
-[![YouTube](https://img.shields.io/badge/YouTube-Twitch_live_backups-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/mouredevbackups)
-
-
-
 
 ## Contact me:
 
