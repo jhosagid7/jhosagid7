@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hello, my name is Brais Moure
-### Freelance full-stack iOS & Android engineer
+# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hello, my name is Jhonny Pirela
+### Freelance full-stack-dev
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/mouredev)
-[![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/mouredev)
-![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
 
-![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
+[![Twitch Status](https://img.shields.io/twitch/status/Jhosagid71?style=social)](https://twitch.com/Jhosagid71)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Jhosagid71?style=social)](https://twitter.com/Jhosagid71)
+![GitHub Followers](https://img.shields.io/github/followers/jhosagid7?style=social)
+
+![https://github.com/jhosagid7](https://raw.githubusercontent.com/jhosagid7/jhosagid7/master/jhosagid7_github_profile.png)
 
 I'm a professional software developer for more than ten years.
 
