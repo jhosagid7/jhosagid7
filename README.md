@@ -17,7 +17,7 @@ I consider myself a responsible, creative person, with initiative and punctualit
 ## Skills:
 [![PHP](https://img.shields.io/badge/php-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![Python](https://img.shields.io/badge/Python-3975a5?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 </br>
 And more...
