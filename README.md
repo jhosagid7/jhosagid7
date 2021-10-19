@@ -39,3 +39,5 @@ A hotel system is a software that allows managing, controlling and optimizing th
 ## Contact me:
 
 [![Email](https://img.shields.io/badge/jhosagid77@gmail.com-my_personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:jhosagid77@gmail.com)
+<br>
+[![Email](https://img.shields.io/badge/jhosagid7@gmail.com-my_personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:jhosagid7@gmail.com)
