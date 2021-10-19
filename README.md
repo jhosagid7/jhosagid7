@@ -15,7 +15,7 @@ I'm a professional software developer for more than ten years.
 I consider myself a responsible, creative person, with initiative and punctuality, I accept with pleasure the challenges and goals that are set for me; with good management of interpersonal relationships, facility to work in a team, as well as to solve problems efficiently and achieve goals set by the company and my work group.
 
 ## Skills:
-[![PHP](https://img.shields.io/badge/php-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+[![PHP](https://img.shields.io/badge/php-007396?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-3975a5?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
