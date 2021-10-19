@@ -1,6 +1,6 @@
 
 
-# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hello, my name is Jhonny Pirela
+# ![https://mouredev.com](https://github.com/jhosagid7/jhosagid7/blob/main/perfil3.PNG) Hello, my name is Jhonny Pirela
 ### Freelance full-stack-dev
 
 
