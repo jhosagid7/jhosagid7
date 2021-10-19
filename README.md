@@ -26,7 +26,7 @@ And more...
 
 [![Twitch](https://img.shields.io/badge/Twitch-Jhosagid7-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.com/Jhosagid7)
 [![Twitter](https://img.shields.io/badge/Twitter-@Jhosagid71-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/Jhosagid71)
-[![Facebook](https://img.shields.io/badge/Facebook-@Jhosagid-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/jhosagid.pineda.50)
+[![Facebook](https://img.shields.io/badge/Facebook-@Jhosagid-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/jhosagid.pirela.50)
 </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jhosagid_Pirela-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jhosagid-pirela-30837b1aa)
 [![Web](https://img.shields.io/badge/jhonnypirela.dev-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://jhonnypirela.dev)
