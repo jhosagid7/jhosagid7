@@ -45,10 +45,7 @@ And more...
 [![Web](https://img.shields.io/badge/jhonnypirela.dev-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://jhonnypirela.dev)
 
 ## The hotel project:
-![Sistem](https://raw.githubusercontent.com/mouredev/mouredev/master/twitimer_banner.png)
-
-[![GitHub Followers](https://img.shields.io/github/stars/mouredev/Twitimer-iOS?label=Public%20iOS%20App%20repository&style=social)](https://github.com/mouredev/Twitimer-iOS)
-[![GitHub Followers](https://img.shields.io/github/stars/mouredev/Twitimer-Android?label=Public%20Android%20App%20repository&style=social)](https://github.com/mouredev/Twitimer-Android)
+![Sistem](https://github.com/jhosagid7/jhosagid7/blob/main/20211019_002752.gif)
 
 Twitimer is a free **[iOS](https://apps.apple.com/us/app/twitimer-twitch-guide/id1564592351)** and **[Android](https://play.google.com/store/apps/details?id=com.mouredev.twitimer)** App that has been developed to help Twitch users, but especially thinking about generating educational content for the entire community of programmers interested in the world of apps development for mobile devices. They have made the project possible (I want it to be a free and constantly evolving App).
 
