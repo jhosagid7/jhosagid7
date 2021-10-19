@@ -27,10 +27,7 @@ Here are some ideas to get you started:
 
 I'm a professional software developer for more than ten years.
 
-In 2014 I left my job at a multinational and create [**MoureDev**](https://mouredev.com), the reflection of my dream to grow as a professional within the software development industry.
-Since then I have dedicated myself to specializing in mobile application development, collaborating with companies from different parts of the world, creating more than 60 Apps and founding my own startup.
-
-In 2018 I return to my small hometown in Galicia (Spain), and I begin to create programming content and share my experience as a developer on platforms such as YouTube, Udemy and Twitch. I want to return all the knowledge that the community has shared with me for free.
+I consider myself a responsible, creative person, with initiative and punctuality, I accept with pleasure the challenges and goals that are set for me; with good management of interpersonal relationships, facility to work in a team, as well as to solve problems efficiently and achieve goals set by the company and my work group.
 
 ## Skills:
 [![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
