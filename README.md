@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### Freelance full-stack-dev
 
 
-[![Twitch Status](https://img.shields.io/twitch/status/Jhosagid71?style=social)](https://twitch.com/Jhosagid71)
+[![Twitch Status](https://img.shields.io/twitch/status/Jhosagid7?style=social)](https://twitch.com/Jhosagid7)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Jhosagid71?style=social)](https://twitter.com/Jhosagid71)
 ![GitHub Followers](https://img.shields.io/github/followers/jhosagid7?style=social)
 
