@@ -44,7 +44,7 @@ And more...
 [![Instagram](https://img.shields.io/badge/Instagram-@Jhosagid7-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/Jhosagid7)
 [![Facebook](https://img.shields.io/badge/Facebook-@Jhosagid7-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/Jhosagid7)
 </br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jhosagid-pirela-30837b1aa?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/braismoure)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jhosagid-pirela-30837b1aa?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jhosagid-pirela-30837b1aa/)
 [![Udemy](https://img.shields.io/badge/Udemy-Brais_Moure-EC5252?style=for-the-badge&logo=udemy&logoColor=white&labelColor=101010)](https://www.udemy.com/course/swift_ios/?referralCode=04756B8423CBE177B930)
 [![Web](https://img.shields.io/badge/My_Website-MoureDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://mouredev.com)
 
