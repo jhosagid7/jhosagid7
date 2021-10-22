@@ -37,7 +37,7 @@ And more...
 ## The hotel project:
 ![Sistem](https://github.com/jhosagid7/jhosagid7/blob/main/20211019_002752.gif)
 
-A hotel system is a software that allows managing, controlling and optimizing the internal processes of a hotel to guarantee its correct operation and compliance with the essential factors of the same.
+The hotel system is a software that allows managing, controlling and optimizing the internal processes of a hotel to guarantee its correct operation and compliance with the essential factors of the same.
 
 ## Contact me:
 
