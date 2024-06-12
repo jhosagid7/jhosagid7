@@ -8,7 +8,6 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Jhosagid71?style=social)](https://twitter.com/Jhosagid71)
 ![GitHub Followers](https://img.shields.io/github/followers/jhosagid7?style=social)
 
-![https://github.com/jhosagid7](https://github.com/jhosagid7/jhosagid7/blob/main/banner%20twiter.PNG)
 
 I'm a professional software developer for more than ten years.
 
