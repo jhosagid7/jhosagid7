@@ -13,8 +13,8 @@ I'm a professional software developer for more than ten years.
 
 I consider myself a responsible, creative person, with initiative and punctuality, I accept with pleasure the challenges and goals that are set for me; with good management of interpersonal relationships, facility to work in a team, as well as to solve problems efficiently and achieve goals set by the company and my work group.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jhosagid7&theme=dark&show_icons=true&hide_border=true)
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=jhosagid7&theme=dark&show_icons=true&locale=en&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jhosagid7&theme=tokyonight&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=jhosagid7&theme=tokyonight&show_icons=true&locale=en&layout=compact)
 </br>
 ## Skills:
 
